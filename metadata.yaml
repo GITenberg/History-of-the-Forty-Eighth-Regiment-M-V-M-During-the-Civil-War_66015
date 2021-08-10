@@ -1,11 +1,16 @@
 _repo: History-of-the-Forty-Eighth-Regiment-M-V-M-During-the-Civil-War_66015
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 66015-h/images/cover.jpg
 creator:
   author:
     agent_name: Plummer, Albert
     gutenberg_agent_id: '53595'
     url: http://www.gutenberg.org/2009/agents/53595
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66015#History-of-the-Forty-Eighth-Regiment-M-V-M-During-the-Civil-War
 gutenberg_issued: '2021-08-08'
 gutenberg_type: Text
 identifiers:
